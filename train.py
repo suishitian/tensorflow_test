@@ -1,5 +1,5 @@
 import tensorflow as tf
-from seq2seq_model import *
+from seq2seq_model.seq2seq import *
 from preprocess import *
 import config
 class Train:
